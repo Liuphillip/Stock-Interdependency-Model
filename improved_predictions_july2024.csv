@@ -1,0 +1,5 @@
+﻿Date,AAPL_Direction,AAPL_Correct,MSFT_Direction,MSFT_Correct,GOOGL_Direction,GOOGL_Correct,AMZN_Direction,AMZN_Correct,NVDA_Direction,NVDA_Correct,META_Direction,META_Correct,BRK-B_Direction,BRK-B_Correct,TSLA_Direction,TSLA_Correct,UNH_Direction,UNH_Correct,JPM_Direction,JPM_Correct,V_Direction,V_Correct,LLY_Direction,LLY_Correct,JNJ_Direction,JNJ_Correct,WMT_Direction,WMT_Correct,PG_Direction,PG_Correct,MA_Direction,MA_Correct,XOM_Direction,XOM_Correct,CVX_Direction,CVX_Correct,HD_Direction,HD_Correct,MRK_Direction,MRK_Correct
+2025-04-23,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,DOWN,✘,UP,✔,UP,✔,UP,✔,UP,✘,UP,✔,UP,✘,UP,✔,UP,✘,UP,✘,UP,✔,UP,✘
+2025-04-24,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,DOWN,✔,UP,✔,UP,✔,UP,✔,DOWN,✔,UP,✔,UP,✘,UP,✔,UP,✔,UP,✔,UP,✔,DOWN,✘
+2025-04-25,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✘,UP,✔,DOWN,✔,UP,✘,UP,✘,UP,✔,DOWN,✔,UP,✘,UP,✔,UP,✘,UP,✘,UP,✘,UP,✘,DOWN,✘
+2025-04-28,UP,✔,UP,✘,UP,✘,UP,✘,UP,✘,UP,✔,UP,✘,UP,✔,DOWN,✘,UP,✘,UP,✔,UP,✘,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✔,UP,✘,DOWN,✘
